@@ -2,7 +2,7 @@
 
 
 # KONTROL MENU PROGRAM
-if ($_GET) {
+if ($_GET !='') {
 	
 	$halaman = '';
 	// Jika mendapatkan variabel URL ?page
