@@ -2,26 +2,29 @@
 // Ambil URL setelah domain
 $request = trim($_SERVER['REQUEST_URI'], '/');
 
-
-
-// Daftar routing: URL -> File PHP
-$routes = [
-    'interior' => 'interior.php',
-    'furniture' => 'furniture.php',
-    'construction' => 'construction.php',
-    'home' => 'home.php',
-];
-
-// Jika tidak ada URL (halaman utama), redirect ke /interior
-if ($request === '') {
+// Jika tidak ada request (root domain), redirect ke /home
+if ($request === '' || $request === 'index.php') {
     header("Location: /home");
     exit;
 }
 
-// Cek apakah URL cocok dengan daftar routing
-if (array_key_exists($request, $routes)) {
-    require $routes[$request]; // Jalankan file PHP yang sesuai
-} else {
-    http_response_code(404); // Jika tidak ditemukan
-    echo "404 Not Found";
+// Tangani request manual
+switch ($request) {
+    case 'home':
+        require 'home.php';
+        break;
+
+    case 'interior':
+        require 'interior.php';
+        break;
+
+    case 'furniture':
+        require 'furniture.php';
+        break;
+
+    // Halaman tidak ditemukan
+    default:
+        http_response_code(404);
+        echo "404 Not Found";
+        break;
 }
