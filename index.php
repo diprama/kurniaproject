@@ -2,6 +2,12 @@
 // Ambil URL setelah domain
 $request = trim($_SERVER['REQUEST_URI'], '/');
 
+
+// Jika tidak ada URL (halaman utama), redirect ke /interior
+if ($request === '') {
+    header("Location: /home");
+    exit;
+}
 // Daftar routing: URL -> File PHP
 $routes = [
     'interior' => 'interior.php',
