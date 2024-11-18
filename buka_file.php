@@ -1,6 +1,6 @@
 <?php
 
-
+$link = isset($_GET['page']) ? $_GET['page'] : '';
 # KONTROL MENU PROGRAM
 if ($_GET !='') {
 	
