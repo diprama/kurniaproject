@@ -1,30 +1,14 @@
 <?php
-// Ambil URL setelah domain
-$request = trim($_SERVER['REQUEST_URI'], '/');
 
-// Jika tidak ada request (root domain), redirect ke /home
-if ($request === '' || $request === 'index.php') {
-    header("Location: /home");
-    exit;
-}
+session_start();
+ini_set("max_execution_time", 0);
+// include_once "library/inc.connection.php";
+// include_once "library/inc.library.php";
+date_default_timezone_set("Asia/Jakarta");
 
-// Tangani request manual
-switch ($request) {
-    case 'home':
-        require '/home.php';
-        break;
+include "buka_file.php";
 
-    case 'interior':
-        require '/interior.php';
-        break;
 
-    case 'furniture':
-        require '/furniture.php';
-        break;
+?>
 
-    // Halaman tidak ditemukan
-    default:
-        http_response_code(404);
-        echo "404 Not Found";
-        break;
-}
+
