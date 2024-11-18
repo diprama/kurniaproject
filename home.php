@@ -6,10 +6,7 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js">
 
-<?php 
-		include "index.php"; 
 
-?>
 
 <!--<![endif]-->
 <head>
@@ -157,7 +154,7 @@
 					<div class="col-md-4" data-col="one-third" style="padding:0 2% 20px">
 						<div class="hover_color">
 							<div class="hover_color_bg">
-								<a href="/interior">
+								<a href="?page=Interior">
 									<div class="hover_color_wrapper" style="padding:60px 40px 45px;"><img class="scale-with-grid" src="content/kurnia/images/interior.png" />
 										<hr class="no_line" style="margin: 0 auto 20px auto" />
 										<h5 style="color: #FF6600">Desain Interior </h5>
@@ -170,7 +167,7 @@
 					<div class="col-md-4" data-col="one-third" style="padding:0 2% 20px">
 						<div class="hover_color">
 							<div class="hover_color_bg">
-								<a href="/construction">
+								<a href="?page=Construction">
 									<div class="hover_color_wrapper" style="padding:60px 40px 45px;"><img class="scale-with-grid" src="content/kurnia/images/konstruksi.png" />
 										<hr class="no_line" style="margin: 0 auto 20px auto" />
 										<h5 style="color: #FF6600">Konstruksi</h5>
@@ -183,7 +180,7 @@
 					<div class="col-md-4" data-col="one-third" style="padding:0 2% 20px">
 						<div class="hover_color">
 							<div class="hover_color_bg">
-								<a href="/furniture">
+								<a href="?page=Furniture">
 									<div class="hover_color_wrapper" style="padding:60px 40px 45px;"><img class="scale-with-grid" src="content/kurnia/images/furnitur.png" />
 										<hr class="no_line" style="margin: 0 auto 20px auto" />
 										<h5 style="color: #FF6600">Furnitur</h5>

@@ -19,7 +19,7 @@
 <head>
 	<!-- Basic Page Needs -->
 	<meta charset="utf-8">
-	<titl>Kurnia Project - Construction</titl>e
+	<title>Kurnia Project - Construction</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<!-- Mobile Specific Metas -->

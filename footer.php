@@ -60,9 +60,9 @@
 
 					<div class="col-md-3">
 						<h5>Product</h5>
-						<p> <a href="interior.php">Interior Design</a>
-							<br> <a href="construction.php">Construction</a>
-							<br> <a href="furniture.php">Furniture</a>
+						<p> <a href="?page=Interior">Interior Design</a>
+							<br> <a href="?page=Construction">Construction</a>
+							<br> <a href="?page=Furniture">Furniture</a>
 						</p>
 					</div>
 					<div class="col-12 social-icons">
