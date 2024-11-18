@@ -11,15 +11,15 @@ if ($request === '' || $request === 'index.php') {
 // Tangani request manual
 switch ($request) {
     case 'home':
-        require 'home.php';
+        require '/home.php';
         break;
 
     case 'interior':
-        require 'interior.php';
+        require '/interior.php';
         break;
 
     case 'furniture':
-        require 'furniture.php';
+        require '/furniture.php';
         break;
 
     // Halaman tidak ditemukan
