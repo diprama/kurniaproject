@@ -171,7 +171,7 @@
 									<div class="hover_color_wrapper" style="padding:60px 40px 45px;"><img class="scale-with-grid" src="content/kurnia/images/konstruksi.png" />
 										<hr class="no_line" style="margin: 0 auto 20px auto" />
 										<h5 style="color: #FF6600">Konstruksi</h5>
-										<p style="color: #8f8f8f;"> Kami mengubah ruangan Anda menjadi karya seni yang fungsional, dengan desain interior yang memadukan estetika dan kenyamanan, sesuai dengan gaya hidup dan preferensi Anda.</p>
+										<p style="color: #8f8f8f;"> Kami membangun fondasi impian Anda dengan konstruksi yang kokoh dan berkualitas tinggi, memastikan setiap detail proyek terlaksana dengan presisi dan keahlian.</p>
 										<hr class="no_line" style="margin: 0 auto 10px auto" /> <span class="single_icon themecolor"><i style="font-size:25px;line-height:25px;" class="icon-right"></i></span> </div>
 								</a>
 							</div>
@@ -184,7 +184,7 @@
 									<div class="hover_color_wrapper" style="padding:60px 40px 45px;"><img class="scale-with-grid" src="content/kurnia/images/furnitur.png" />
 										<hr class="no_line" style="margin: 0 auto 20px auto" />
 										<h5 style="color: #FF6600">Furnitur</h5>
-										<p style="color: #8f8f8f;"> Kami mengubah ruangan Anda menjadi karya seni yang fungsional, dengan desain interior yang memadukan estetika dan kenyamanan, sesuai dengan gaya hidup dan preferensi Anda. </p>
+										<p style="color: #8f8f8f;"> Kami menciptakan furnitur yang tidak hanya indah dipandang tetapi juga memberikan kenyamanan maksimal, dirancang khusus untuk melengkapi gaya dan kebutuhan ruang Anda. </p>
 										<hr class="no_line" style="margin: 0 auto 10px auto" /> <span class="single_icon themecolor"><i style="font-size:25px;line-height:25px;" class="icon-right"></i></span> </div>
 								</a>
 							</div>
