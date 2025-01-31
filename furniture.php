@@ -85,7 +85,7 @@
 				</div>
 			</div>
 			
-		   <div class="section mcb-section equal-height-wrap bg-cover" style="padding-top:120px;padding-bottom:80px;background-image:url(content/kurnia/images/thumbnail.png);background-repeat:no-repeat;background-position:center top">
+		   <div class="section mcb-section equal-height-wrap bg-cover" style="padding-top:120px;padding-bottom:80px;background-image:url(content/kurnia/images/furniture.png);background-repeat:no-repeat;background-position:center top">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 valign-top clearfix" data-col="one-second">

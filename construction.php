@@ -55,7 +55,7 @@
 						</div>
 						<div class="col-md-6 valign-top clearfix" data-col="one-second">
 							<div class="image_frame image_item no_link scale-with-grid no_border">
-								<div class="image_wrapper"><img class="scale-with-grid" src="content/kurnia/images/construction_2.png" alt="nursinghome-ourcenter-pic2" width="780" height="635" /> </div>
+								<div class="image_wrapper"><img class="scale-with-grid" src="content/kurnia/images/construction.png" alt="nursinghome-ourcenter-pic2" width="780" height="635" /> </div>
 							</div>
 						</div>
 			</div>
@@ -107,7 +107,7 @@
 				</div>
 			</div>
 			
-		   <div class="section mcb-section equal-height-wrap bg-cover" style="padding-top:120px;padding-bottom:80px;background-image:url(content/kurnia/images/thumbnail.png);background-repeat:no-repeat;background-position:center top">
+		   <div class="section mcb-section equal-height-wrap bg-cover" style="padding-top:120px;padding-bottom:80px;background-image:url(content/kurnia/images/construction_2.png);background-repeat:no-repeat;background-position:center top">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 valign-top clearfix" data-col="one-second">
