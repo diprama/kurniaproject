@@ -82,8 +82,16 @@
 			</div>
 			<div class="footer_copy">
 				<div class="container">
-					<div class="column one"> <a id="back_to_top" class="footer_button" href="#"><i class="icon-up-open-big"></i></a>
-						<div class="copyright"> &copy; <b>Kurnia Project</b></div>
+					<div class="column one"> <a id="back_to_top" class="footer_button" href><i class="icon-up-open-big"></i></a>
+						<div class="copyright"> &copy; 2024 - Kurnia Project | Developed by Proxy
+							 <!-- <a target="_blank" rel="nofollow" href="https://1.envato.market/9ZxXY">BeantownThemes</a> -->
+							 </div>
+						<ul class="social">
+							<li class="facebook"> <a href="#" title="Facebook"><i class="icon-facebook"></i></a> </li>
+							<li class="twitter"> <a href="#" title="Twitter"><i class="icon-twitter"></i></a> </li>
+							<li class="linkedin"> <a href="#" title="LinkedIn"><i class="icon-linkedin"></i></a> </li>
+							<li class="instagram"> <a href="#" title="Instagram"><i class="icon-instagram"></i></a> </li>
+						</ul>
 					</div>
 				</div>
 			</div>

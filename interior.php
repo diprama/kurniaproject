@@ -85,7 +85,7 @@
 							</div>
 						</div>
 						<div class="col-md-6 valign-middle clearfix" data-col="one-second" style="padding-top:10%;">
-							<div class="hover_box" onclick="openVideoModal('jE3aQ6fFA0k')">
+							<div class="hover_box" onclick="openVideoModal('tKRd220yABU')">
 								<div class="hover_box_wrapper">
 									<img class="visible_photo scale-with-grid" src="content/kurnia/images/nursinghome-home-iconplay.webp" />
 									<img class="hidden_photo scale-with-grid" src="content/kurnia/images/nursinghome-home-iconplay2.webp" /> 
