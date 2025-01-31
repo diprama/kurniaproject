@@ -86,12 +86,12 @@
 						<div class="copyright"> &copy; 2024 - Kurnia Project | Developed by Proxy
 							 <!-- <a target="_blank" rel="nofollow" href="https://1.envato.market/9ZxXY">BeantownThemes</a> -->
 							 </div>
-						<ul class="social">
+						<!-- <ul class="social">
 							<li class="facebook"> <a href="#" title="Facebook"><i class="icon-facebook"></i></a> </li>
 							<li class="twitter"> <a href="#" title="Twitter"><i class="icon-twitter"></i></a> </li>
 							<li class="linkedin"> <a href="#" title="LinkedIn"><i class="icon-linkedin"></i></a> </li>
 							<li class="instagram"> <a href="#" title="Instagram"><i class="icon-instagram"></i></a> </li>
-						</ul>
+						</ul> -->
 					</div>
 				</div>
 			</div>

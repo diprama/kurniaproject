@@ -55,7 +55,7 @@
 						</div>
 						<div class="col-md-6 valign-top clearfix" data-col="one-second">
 							<div class="image_frame image_item no_link scale-with-grid no_border">
-								<div class="image_wrapper"><img class="scale-with-grid" src="content/kurnia/images/construction.png" alt="nursinghome-ourcenter-pic2" width="780" height="635" /> </div>
+								<div class="image_wrapper"><img class="scale-with-grid" src="content/kurnia/images/construction_2.png" alt="nursinghome-ourcenter-pic2" width="780" height="635" /> </div>
 							</div>
 						</div>
 			</div>
